@@ -12,3 +12,5 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
+notifications:
+  slack: fluffylogic:nb0HNZOX1WuPWgZFmHP5IFx6
